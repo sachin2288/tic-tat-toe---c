@@ -67,8 +67,6 @@ We love contributions!
 🛠️ Found a bug? Open an issue.
 🎨 Have an idea for improvement? Submit a pull request.
 
-📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms. See the LICENSE file for details.
 
 🌟 Acknowledgments
 SDL2 Library: For making graphics programming intuitive.
